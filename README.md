@@ -4,7 +4,8 @@ Here you can see stylized elements, see examples of their use and download the s
 
 The project is also a team work, which demonstrates the authors' skills to work in a team using Git.
 
-View project you can here: [**DA-Library**](https://dimatarhan.github.io/da-library/dist/index.html)
+View project you can here: 
+# [DEMO](https://dimatarhan.github.io/da-library/dist/index.html)
 
 ## How to use the library?
 * Download and add a style sheet to your project: ```dist/css/da-library.css```
